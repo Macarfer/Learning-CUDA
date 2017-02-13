@@ -1,0 +1,1 @@
+srun -N1 -p gpu-shared --gres=gpu -t 10 add_cuda
